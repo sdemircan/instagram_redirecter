@@ -1,2 +1,2 @@
-instagram_redirecter
+Instagram Redirecter
 ====================
